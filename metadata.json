@@ -1,0 +1,6 @@
+{
+  "name": "Alazab Maps (az-maps)",
+  "description": "Enterprise Geospatial Platform for Alazab Group - Central Spatial DB, PostGIS, Unified GIS APIs, and Multi-system Integration (ERPNext, UberFix, Daftra, MCP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
